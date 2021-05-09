@@ -1,0 +1,16 @@
+
+
+ÖLÇÜ ALETİ 
+özellikleri:
+-Direnç Ölçümü  
+-Volt ölçümü
+-Kondansatör ölçümüAT
+-Kısa devre kontrol ölçümü
+
+
+Gereken Malzemeler:
+
+direnç
+buzzer 
+jumper kablolar 
+LCD ekran 
